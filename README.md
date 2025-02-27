@@ -81,22 +81,6 @@
 
 <br>
 
-<h2 align="center">📊 Weekly Development Breakdown</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=M_Enderle&theme=github_dark&layout=compact" />
-</div>
-
-<br>
-
-<h2 align="center">🔥 My Contributions</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/M-Enderle/M-Enderle/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br>
-
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
