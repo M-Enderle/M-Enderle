@@ -58,28 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Enderle&theme=github-dark-blue&hide_border=true" />
 </div>
 
-<h2 align="center">🏆 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/M-Enderle/detect-the-difference">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Enderle&repo=detect-the-difference&theme=github_dark" />
-  </a>
-  <a href="https://github.com/M-Enderle/BVB-ticket-bot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Enderle&repo=BVB-ticket-bot&theme=github_dark" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/M-Enderle/cardmarket">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Enderle&repo=cardmarket&theme=github_dark" />
-  </a>
-  <a href="https://github.com/M-Enderle/Topic-Modelling">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=M-Enderle&repo=Topic-Modelling&theme=github_dark" />
-  </a>
-</div>
-
-<br>
-
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
