@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-JKU%20Austria-0366D6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Linz,%20Linz-0366D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Linz,%20Austria-0366D6?style=for-the-badge" />
 </p>
 
 <h2 align="center">🛠️ Technologies & Skills</h2>
